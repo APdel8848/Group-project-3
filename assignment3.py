@@ -7,7 +7,7 @@ import numpy as np
 # Group Assignment 3
 # Image Editor using Tkinter and OpenCV
 
-# Class to store settings for the sliders
+# Class to store settings for the slider
 # We use this to keep track of values even when switching between effects
 class FilterSettings:
     def __init__(self):
